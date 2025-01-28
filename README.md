@@ -5,7 +5,7 @@
 [MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
 Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
 
-## MDN's mission
+## MDN's mission blah
 
 MDN's mission is to provide a blueprint for a better internet and empower a new generation of developers and content creators to build it.
 
